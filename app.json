@@ -5,6 +5,7 @@
     
     "website": "https://github.com/AK4111/aakash-work-1",
     "repository": "https://github.com/AK4111/aakash-work-1",
+    "stack": "container",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
